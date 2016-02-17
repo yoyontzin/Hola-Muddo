@@ -1,2 +1,6 @@
 # Hola-Muddo
-Esta es mi prmer collección en GtHub y me servirá para explorar las disitinas posibilidades 
+Esta es mi prmer collección en GtHub y me servirá para explorar las disitinas posibilidades. 
+
+Me presento: Yo soy Matemático con Ph.D (2014) por la universidad de Concordia (Montréal Canadá). Mi área principal de estudio es la Geometría Aritmética que es el uso de la Geometría Algebraica para entrender y resolver problemas relacionados con la Teoría de Números. Concretamente trabajo con unos objetos geométricios (llamados variedades) que están definidos sobre campos de característica mixta (0,p). Estos objetos pueden ser entendidos o pensados como familias de objetos geométricos que se reducen a objetos sobre un campo finito. Me interesa particularmete enteder cómo una variedad suave adquiere singularidades al momento de ser reducida módulo p. 
+
+Desde que obtuve mi doctorado mis intereses se han diversificado. Ahora estoy también interesado en aplicar mis matemáticas a otras áreas del conocimiento. Una idea interesante es el usar la Topología, la Geometría y la Aritmética para el análisis de datos. Estos datos pueden ser datos estadísticos, códigos, lenguages, música etc.. El análisis topológico de datos trata de entender la estructura  de los datos asociandole invariantes topológicos a estos. Estp habe la puerta para que al anealisis datos pueda ser entendido usando no sólo topología pero sí otras herramientas más específicas que también se basan en gran parte en métdoos topológicos. Una de estas herramientas es la Geometría Algebáica.  
